@@ -1,0 +1,11 @@
+/home/bmorkai/wba/final_capstone/cw-staking-angel-0.2.3/target/debug/deps/libprost_derive-0d2e37bca3750f92.so: /home/bmorkai/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-derive-0.9.0/src/lib.rs /home/bmorkai/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-derive-0.9.0/src/field/mod.rs /home/bmorkai/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-derive-0.9.0/src/field/group.rs /home/bmorkai/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-derive-0.9.0/src/field/map.rs /home/bmorkai/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-derive-0.9.0/src/field/message.rs /home/bmorkai/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-derive-0.9.0/src/field/oneof.rs /home/bmorkai/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-derive-0.9.0/src/field/scalar.rs
+
+/home/bmorkai/wba/final_capstone/cw-staking-angel-0.2.3/target/debug/deps/prost_derive-0d2e37bca3750f92.d: /home/bmorkai/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-derive-0.9.0/src/lib.rs /home/bmorkai/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-derive-0.9.0/src/field/mod.rs /home/bmorkai/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-derive-0.9.0/src/field/group.rs /home/bmorkai/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-derive-0.9.0/src/field/map.rs /home/bmorkai/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-derive-0.9.0/src/field/message.rs /home/bmorkai/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-derive-0.9.0/src/field/oneof.rs /home/bmorkai/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-derive-0.9.0/src/field/scalar.rs
+
+/home/bmorkai/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-derive-0.9.0/src/lib.rs:
+/home/bmorkai/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-derive-0.9.0/src/field/mod.rs:
+/home/bmorkai/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-derive-0.9.0/src/field/group.rs:
+/home/bmorkai/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-derive-0.9.0/src/field/map.rs:
+/home/bmorkai/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-derive-0.9.0/src/field/message.rs:
+/home/bmorkai/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-derive-0.9.0/src/field/oneof.rs:
+/home/bmorkai/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-derive-0.9.0/src/field/scalar.rs:
